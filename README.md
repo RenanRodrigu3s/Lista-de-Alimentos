@@ -45,21 +45,38 @@ Versao da Aplicaçao 1.0 Em breve tera Atualizaçoes
 Tecnologias utilizadas:
 
 -Kotlin
+
 -Activities
+
 -Layout para Activities
+
 -ConstraintLayout
+
 -TextView
+
 -RecyclerView
+
 -EditText
+
 -Button
+
 -Binding de View
+
 -Listener de clique
+
 -AndroidX
+
 -AppCompatActivity
+
 -Refatoração de código
 
 
+✔️ Funcionalidades
+Nesta versão o App possui as seguintes funcionalidades:
 
+-Listagem de produtos
+
+-Cadastro de produtos
 
 
 
