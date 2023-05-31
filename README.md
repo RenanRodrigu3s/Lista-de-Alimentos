@@ -2,9 +2,11 @@ Sobre o projeto
 
 Minha Primeira Aplicação Simulando uma lista de Alimentos Organicos onde consiste em uma lista onde Podemos adicionar Alimentos  e Inserir seus valores.
 
+
+
 Versao da Aplicaçao 1.0 Em breve tera Atualizaçoes
 
-
+-App de simulação de um e-commerce para produtos naturais
 
 
 
@@ -40,12 +42,26 @@ Versao da Aplicaçao 1.0 Em breve tera Atualizaçoes
 
 
 
-Tecnologias utilizadas
-- Kotlin 
-- Android Studio
-- Reclycler View
-- Herança, classe abstrata, membros abstratos e interfaces
-- Activitys
+Tecnologias utilizadas:
+
+-Kotlin
+-Activities
+-Layout para Activities
+-ConstraintLayout
+-TextView
+-RecyclerView
+-EditText
+-Button
+-Binding de View
+-Listener de clique
+-AndroidX
+-AppCompatActivity
+-Refatoração de código
+
+
+
+
+
 
 Autor
 Renan Rodrigues de Oliveira
